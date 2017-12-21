@@ -249,7 +249,7 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'commerce_kickstart_12',
+      'database' => 'ck_12',
       'username' => 'root',
       'password' => '',
       'host' => 'localhost',
